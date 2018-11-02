@@ -48,7 +48,7 @@ app.get("/", function (req, res) {
    })
    
    app.get('/test', function(req,res){
-     res.render('test.ejs')
+     res.render('Test.ejs')
    })
    
 // 5 handle valid POST request (not required to fully work)
