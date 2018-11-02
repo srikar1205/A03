@@ -1,0 +1,60 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/navy-blue-color-stoke_23-2147746684.jpg?size=338&ext=jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+*{
+    font-weight: bold;
+}
+.section-header {
+	color: orange;
+    font-family: verdana;
+    font-size: 200%;
+}
+h1 {
+    color: black;
+    font-weight: bold;
+    padding: 40px;
+    text-align: center;
+}
+p  {
+    color: black;
+    font-weight: bold;
+
+    font-family: courier;
+    font-size: 100%;
+}
+#past-section
+{
+	color: orange;
+    font-family: verdana;
+    }
+#future-section
+{
+	color:orange;
+    font-family: verdana;
+    
+}
+.aside-header
+{
+	color: orange;
+    font-family: verdana;
+    font-size: 150%;
+}
+footer 
+{
+   color: black;
+   font-weight: bold;
+    text-align: center;
+	font-size: 100%;
+}
+
+
+ol{
+    color: black;
+    font-weight: bold;
+    font-family: courier;
+    font-size: 100%;
+}
+
+
